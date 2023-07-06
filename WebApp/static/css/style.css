@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#plane {
+    display: inline-block;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.seat {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.available {
+    background-color: #28a745;
+}
+
+.taken {
+    background-color: #dc3545;
+    cursor: not-allowed;
+}
+
+.selected {
+    background-color: #007bff;
+}
