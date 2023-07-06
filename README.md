@@ -1,6 +1,6 @@
 # Optimization_Of_Airplane_Passenger_Seating
 The aim of this project is to build a robust optimization algorithm that handles tha arrangement of an airplane passengers seating using Gurobi
-![image_presentation](assets/image_presentation.png)
+![image_presentation](images/image_presentation.png)
 
 
 ### Objectives
